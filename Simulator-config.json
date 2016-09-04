@@ -1,0 +1,36 @@
+{
+   "Car_Name":"SIM",
+
+   "GPS_LOG_IP":"192.168.1.4",
+   "GPS_LOG_PORT":2950,
+   "GPS_POLL_DELAY":2,
+
+   "REPLAY_SPEED":30.0,
+
+   "RFID_LOG_IP":"192.168.1.4",
+   "RFID_LOG_PORT":2950,
+   "RFID_POLL_DELAY":3,
+
+   "Car_ID":
+   [
+         {"Hamachi_IP":"","Car_Name":"NHS"},
+         {"Hamachi_IP":"","Car_Name":"NPS"},
+         {"Hamachi_IP":"","Car_Name":"TEST"}
+   ],
+
+   "GPSD":
+   [
+         {"IP":"127.0.0.1","PORT":2947}
+   ],
+
+   "GPS_LOG":
+   [
+         {"IP":"127.0.0.1","PORT":2950}
+   ],
+
+   "RFID_LOG":
+   [
+         {"IP":"127.0.0.1","PORT":2950}
+   ]
+}
+
